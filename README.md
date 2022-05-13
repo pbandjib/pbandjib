@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Skoolie Bus App**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js and React**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/jeremiah-holland/overview](https://app.netlify.com/sites/jeremiah-holland/overview)
 
