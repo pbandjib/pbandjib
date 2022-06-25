@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
 <h3 align="center">A few things about myself, I am a software engineer with a fascination for puzzles and problem solving. I enjoy learning new things and making myself as self-sufficient as possible. What excites me about programming is the ability to constantly be able to further yourself and grow with a technology that is continuously changing and improving the way we do things. Not only that, but there is the ability to connect with such a vast network of talented and creative people on a daily basis. With this, comes an unending ability to learn and improve. My core values are rooted in honesty, transparency, and open communication. That being said, a personal/professional goal of mine is to work in a skoolie while traveling the US with my wife, dog, and 2 cats.</h3>
 
-- 🔭 I’m currently working on **Skoolie Bus App**
+- 🔭 I’m currently working on **Skoolie Bus / Van App**
 
 - 🌱 I’m currently learning **Vue.js and React**
 
