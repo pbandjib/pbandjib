@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
-<h3 align="center">A few things about myself, I am a software engineer with a fascination for puzzles and problem solving. I enjoy learning new things and making myself as self-sufficient as possible. What excites me about programming is the ability to constantly be able to further yourself and grow with a technology that is continuously changing and improving the way we do things. Not only that, but there is the ability to connect with such a vast network of talented and creative people on a daily basis. With this, comes an unending ability to learn and improve. My core values are rooted in honesty, transparency, and open communication. That being said, a personal/professional goal of mine is to work in a skoolie while traveling the US with my wife, dog, and 2 cats.</h3>
+<h3 align="center">As a full-stack software engineer I have the tools and skills necessary to allow me to do what I am passionate about, to work with others to materialize their creativity and ambitions. I have a background in the military as well as healthcare administration and am continuously challenging myself to acquire new skills and knowledge. If I do not know the answer to your question, I will find it.</h3>
 
 - 🔭 I’m currently working on **Skoolie Bus / Van App**
 
