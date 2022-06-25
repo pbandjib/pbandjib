@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pbandjib@gmail.com**
 
-- ⚡ Fun fact **I flew a plane before**
+- ⚡ Fun fact **I flew a T-6 Texan (World War II plane)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
