@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js and React**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/jeremiah-holland/overview](https://app.netlify.com/sites/jeremiah-holland/
+- 👨‍💻 All of my projects are available at [[https://app.netlify.com/sites/jeremiah-holland/overview](https://app.netlify.com/sites/jeremiah-holland/](https://jeremiah-holland.netlify.app/)
 
 - 📫 How to reach me **pbandjib@gmail.com**
 
