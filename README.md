@@ -2,7 +2,10 @@
 
 
 
-[![trophy](https://github-profile-trophy-sigma-three.vercel.app/?username=pbandjib&theme=radical)
+
+[![trophy](https://github-profile-trophy-sigma-three.vercel.app/?username=pbandjib&theme=radical&no-frame=true)](https://github.com/pbandjib/github-profile-trophy)
+
+
 
 <a href="https://github.com/pbandjib/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-lcj4.vercel.app/api?username=pbandjib&show_icons=true&theme=radical" />
