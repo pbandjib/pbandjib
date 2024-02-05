@@ -3,7 +3,7 @@
 
 
 
-[![trophy](https://github-profile-trophy-sigma-three.vercel.app/?username=pbandjib&theme=radical&no-frame=true)](https://github.com/pbandjib/github-profile-trophy)
+[![trophy](https://github-profile-trophy-sigma-three.vercel.app/?username=pbandjib&theme=radical&row=1&column=7)](https://github.com/pbandjib/github-profile-trophy)
 
 
 
