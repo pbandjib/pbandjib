@@ -52,12 +52,15 @@
 &nbsp;
 &nbsp;
 
+<h2 align="center">🏆 Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/pbandjib/github-profile-trophy">
     <img src="https://github-profile-trophy-sigma-three.vercel.app/?username=pbandjib&theme=radical&row=1&column=7" />
   </a>
 </p>
+
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <a href="https://github.com/pbandjib/github-readme-stats">
